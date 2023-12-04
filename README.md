@@ -16,14 +16,18 @@ Team members upload the results of running their colab_datascripts to the Google
 drive shared [folder](https://drive.google.com/drive/folders/1qSt_5VlWExNjGA76eHeQoExN0gJQ1p00?usp=sharing). \
 Naming convention: {LLMModelName}.csv \The CSV has 3 columns: Prompt, Continuation, Toxicity
 
+### colab_datascripts ###
+This contains scripts used to generate the dataset of prompts, responses and their toxicity scores for training data. 
+
 ### colab_learningscripts ### 
-Team members upload their scripts for training their models. \
-Naming convension: {TeamMemberName}.ipynb
+This contains the scripts used to generate models for Reinforcement Learning and LLM selector.
 
-### Evaluation metrics ###
-Avg, Stddev, min, max of the toxicity score.
 
-## Baselines ##
-Response from an individual LLM.
+
+
+
+
+
+
 
 
