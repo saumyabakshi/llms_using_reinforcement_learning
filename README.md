@@ -8,7 +8,7 @@ LLMs Assignments:
 1. GPT - Huayi Peng 
 2. LLama - Xinyu Liu
 3. Bard - Xinyu Wang
-4. Claude - Namyata Cheduri
+4. Flan-T5 - Namyata Cheduri
 5. GPT-neo - Saumya 
 
 ### Datasets ### 
