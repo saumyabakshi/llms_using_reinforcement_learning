@@ -9,7 +9,7 @@ LLMs Assignments:
 2. LLama - Xinyu Liu
 3. Bard - Xinyu Wang
 4. Flan-T5 - Namyata Cheduri
-5. GPT-neo - Saumya 
+5. GPT-neo - Saumya Puru Bakshi
 
 ### Datasets ### 
 Team members upload the results of running their colab_datascripts to the Google
